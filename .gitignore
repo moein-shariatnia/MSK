@@ -2,7 +2,3 @@
 *.pt
 *.png
 .vscode/
-dataset_local/
-main.py
-inference.py
-*.ipynb
